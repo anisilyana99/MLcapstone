@@ -1,2 +1,2 @@
 # MLcapstone
-capstone project for coursera course
+Capstone project for coursera course.
